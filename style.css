@@ -137,13 +137,14 @@ section{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content:center;
     z-index: 0;
     position: relative;
 }
 
 .home .content{
-    text-align: center;
+    text-align:center;
+    margin-top: 400px;    
 }
 
 .home .content h3{
@@ -184,7 +185,7 @@ section{
     top: 0; left: 0; 
     height: 100%;
     width: 100%;
-    background: rgba(15, 10, 10, 0.731);
+    background: rgba(11, 8, 8, 0.162);
     z-index: -1;
   }
 
